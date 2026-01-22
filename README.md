@@ -23,5 +23,5 @@ The project presents the cafe's menu, ambiance, and customer services.
 ![About Us Page](about_us.jpg)
 **About Us Page:** Shares information about the café and its background.
 
-![Contact Page](contact_us.jpeg)
+![Contact Us Page](contact_us.jpeg)
 **Contact Us Page:** Provides contact details and location.
