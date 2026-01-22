@@ -38,5 +38,5 @@ The project presents the cafe's menu, ambiance, and customer services.
 </a>
 
 <a href="https://github.com/Markdavid333" target="_blank">
-  <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/GitHub.png" width="30" alt="GitHub">
+  <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Github.png" width="30" alt="GitHub">
 </a>
