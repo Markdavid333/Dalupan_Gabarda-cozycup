@@ -21,7 +21,7 @@ The project presents the cafe's menu, ambiance, and customer services.
 **Ambiance Page:** Shows the relaxing and inviting atmosphere of the café.
 
 ![About Us Page](about_us.jpg)
-**About Page:** Shares information about the café and its background.
+**About Us Page:** Shares information about the café and its background.
 
 ![Contact Page](contact_us.jpeg)
-**Contact Page:** Provides contact details and location.
+**Contact Us Page:** Provides contact details and location.
