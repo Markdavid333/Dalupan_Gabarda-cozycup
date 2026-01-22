@@ -20,7 +20,7 @@ The project presents the cafe's menu, ambiance, and customer services.
 ![Ambiance Page](Ambiance.jpg)
 **Ambiance Page:** Shows the relaxing and inviting atmosphere of the café.
 
-![About Us Page](about_us.jpg)
+![About Us Page](About_us.jpg) 
 **About Us Page:** Shares information about the café and its background.
 
 ![Contact Us Page](contact_us.jpeg)
