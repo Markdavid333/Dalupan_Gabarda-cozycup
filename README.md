@@ -33,10 +33,12 @@ The project presents the cafe's menu, ambiance, and customer services.
 **Name:** Mark David Dalupan  
 **Email:** 201880072@psu.palawan.edu.ph
 
-<a href="https://www.facebook.com/your-facebook-profile" target="_blank">
-  <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Facebook.png" width="30" alt="Facebook">
-</a>
+<p align="center">
+  <a href="https://github.com/Markdavid333" target="_blank">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Github.png" width="30" alt="GitHub">
+  </a>
 
-<a href="https://github.com/Markdavid333" target="_blank">
-  <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Github.png" width="30" alt="GitHub">
-</a>
+  <a href="https://www.facebook.com/your-facebook-profile" target="_blank">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Facebook.png" width="30" alt="Facebook">
+  </a>
+</p>
