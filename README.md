@@ -30,3 +30,8 @@ The project presents the cafe's menu, ambiance, and customer services.
 
 <img src="https://github.com/Markdavid333.png" width="150" style="border-radius:50%;">
 
+**Name:** Mark David  
+**Email:** 201880072@psu.palawan.edu.ph
+
+
+
