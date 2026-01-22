@@ -26,3 +26,7 @@ The project presents the cafe's menu, ambiance, and customer services.
 ![Contact Us Page](contact.jpeg)
 **Contact Us Page:** Provides contact details and location.
 
+## About the Authors
+
+<img src="https://github.com/Markdavid333.png" width="150" style="border-radius:50%;">
+
