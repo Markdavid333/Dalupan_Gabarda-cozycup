@@ -14,14 +14,15 @@ The project presents the cafe's menu, ambiance, and customer services.
 
 ## Screen Captures
 
-![Home Page](home.jpg)
+<img src="home.jpg" width="400">
 **Home Page:** Welcomes visitors with a cozy café introduction and menu.
 
-![Ambiance Page](Ambiance.jpg)
+<img src="Ambiance.jpg" width="400">
 **Ambiance Page:** Shows the relaxing and inviting atmosphere of the café.
 
-![About Us Page](about.jpg) 
+<img src="about.jpg" width="400">
 **About Us Page:** Shares information about the café and its background.
 
-![Contact Us Page](contact.jpeg)
+<img src="contact.jpeg" width="400">
 **Contact Us Page:** Provides contact details and location.
+
