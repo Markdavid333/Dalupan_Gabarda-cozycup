@@ -14,17 +14,25 @@ The project presents the cafe's menu, ambiance, and customer services.
 
 ## Screen Captures
 
-![Home Page](img/home.png)
-**Home Page:** Welcomes visitors with a cozy café introduction and menu.
+<img src="img/home.png" width="600" alt="Home Page">
+<br>
+<strong>Home Page:</strong> Welcomes visitors with a cozy café introduction and menu.
+<br><br>
 
-![Menu](img/menu.png)
-**Menu Page:** Shows the relaxing and inviting atmosphere of the café.
+<img src="img/menu.png" width="600" alt="Menu Page">
+<br>
+<strong>Menu Page:</strong> Shows the relaxing and inviting atmosphere of the café.
+<br><br>
 
-![About Us Page](img/about.png) 
-**About Us Page:** Shares information about the café and its background.
+<img src="img/about.png" width="600" alt="About Us Page">
+<br>
+<strong>About Us Page:</strong> Shares information about the café and its background.
+<br><br>
 
-![Contact Us Page](img/contact.png)
-**Contact Us Page:** Provides contact details and location.
+<img src="img/contact.png" width="600" alt="Contact Us Page">
+<br>
+<strong>Contact Us Page:</strong> Provides contact details and location.
+
 
 ## About the Authors
 
