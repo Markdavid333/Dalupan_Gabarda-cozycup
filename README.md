@@ -20,10 +20,10 @@ The project presents the cafe's menu, ambiance, and customer services.
 ![Menu](img/menu.png)
 **Menu Page:** Shows the relaxing and inviting atmosphere of the café.
 
-![About Us Page](about.jpg) 
+![About Us Page](about.png) 
 **About Us Page:** Shares information about the café and its background.
 
-![Contact Us Page](contact.jpeg)
+![Contact Us Page](contact.png)
 **Contact Us Page:** Provides contact details and location.
 
 ## About the Authors
