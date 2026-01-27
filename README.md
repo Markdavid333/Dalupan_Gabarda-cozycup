@@ -14,7 +14,7 @@ The project presents the cafe's menu, ambiance, and customer services.
 
 ## Screen Captures
 
-![Home Page](home.jpg)
+![Home Page](img/home.png)
 **Home Page:** Welcomes visitors with a cozy café introduction and menu.
 
 ![Ambiance Page](Ambiance.jpg)
