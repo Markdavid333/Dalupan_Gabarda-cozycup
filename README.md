@@ -43,6 +43,8 @@ The project presents the cafe's menu, ambiance, and customer services.
 
 ### Connect with Us
 
+#### Mark David Dalupan
+
 <a href="https://www.facebook.com/mark.david.dalupan.03" target="_blank">
   <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Facebook.png" width="30" alt="Facebook">
 </a>
