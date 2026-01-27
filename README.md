@@ -41,6 +41,8 @@ The project presents the cafe's menu, ambiance, and customer services.
 **Name:** Mark David Dalupan  
 **Email:** 201880072@psu.palawan.edu.ph
 
+### Connect with Us
+
 <a href="https://www.facebook.com/mark.david.dalupan.03" target="_blank">
   <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Facebook.png" width="30" alt="Facebook">
 </a>
